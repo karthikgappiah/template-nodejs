@@ -1,0 +1,9 @@
+{
+  "name": "portfolio-site",
+  "version": "0.0.0",
+  "scripts": {
+  },
+  "author": "Karthik G. Appiah <122487930+karthikgappiah@users.noreply.github.com>",
+  "license": "UNLICENSED",
+  "packageManager": "pnpm@10.32.1"
+}
