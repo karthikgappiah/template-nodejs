@@ -3,7 +3,8 @@
 
 {
 	"json.schemaDownload.trustedDomains": {
-		"https://biomejs.dev/schemas/2.5.11/schema.json": true
+		"https://biomejs.dev/schemas/2.5.11/schema.json": true,
+		"https://json.schemastore.org/lefthook.json": true
 	},
 	"editor.defaultFormatter": "biomejs.biome",
 	"editor.formatOnSave": true,
